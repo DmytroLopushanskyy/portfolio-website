@@ -349,12 +349,6 @@ footer {
 	font-size: 20px;
 }
 
-.author-image {
-	grid-area: 5 / 2 / 7 / 5;
-	overflow: hidden;
-	margin-top: -50px;
-}
-
 .constrained-img {
 	max-height: 400px;
 }
